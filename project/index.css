@@ -1,0 +1,29 @@
+#name{
+    
+    color: rgb(240, 241, 255);
+}
+header{
+    background-color: rgb(138, 165, 187);
+}
+#instlogo{
+    position: relative;
+    left: 1170px;
+    bottom: 50px;
+}
+#inst{
+    position: relative;
+    left: 1200px;
+    bottom: 90px;
+    font-size: 20px;
+    font-style: bold;
+}
+footer{
+    background-color: black;
+    color: antiquewhite;
+    height: 100px;
+    padding-top:40px ;
+    
+}
+ul{
+    text-align: center;
+}
